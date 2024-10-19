@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+html,body{
+  height: 100%;
+  background-color: #01344a;
+  text-align: center;
+  place-items: center;
+
+}
+
+.main{
+  height: 80px;
+  width: 350px;
+  background-color: #9bd4ec;
+  border-radius: 10px;
+  padding: 0 20px 0 20px;  
+}
+
+.slider{
+  position: relative;
+  width: 100%;
+
+}
